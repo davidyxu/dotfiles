@@ -6,3 +6,5 @@ set autoindent
 set expandtab
 set nu
 set wildmode=longest:full,full
+set statusline+=%F
+set laststatus=2
