@@ -8,3 +8,4 @@ set nu
 set wildmode=longest:full,full
 set statusline+=%F
 set laststatus=2
+set clipboard=unnamedplus
