@@ -1,0 +1,3 @@
+[submodule "/Users/dxu/.vim/bundle/rust.vim"]
+	path = /Users/dxu/.vim/bundle/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git

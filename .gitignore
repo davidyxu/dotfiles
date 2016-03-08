@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.vimrc
+!.tmux.conf
+!.vim
+!.vim/**
+.vim/.netrwhist
