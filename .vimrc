@@ -6,7 +6,7 @@ set expandtab
 set nu
 set wildmode=longest:full,full
 set laststatus=2
-set clipboard=unnamedplus
+set clipboard=unnamed
 set backspace=2
 
 set statusline +=%F
@@ -16,4 +16,5 @@ set statusline +=%1*%4v\ %*             "virtual column number
 
 execute pathogen#infect()
 syntax on
-filetype plugin indent on
+filetype plugin on
+"filetype plugin indent on
