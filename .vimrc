@@ -8,6 +8,8 @@ set wildmode=longest:full,full
 set laststatus=2
 set clipboard=unnamed
 set backspace=2
+set cursorline
+hi CursorLine ctermbg=black cterm=NONE ctermfg=NONE
 
 set statusline +=%F
 set statusline +=%1*%=%5l%*             "current line
