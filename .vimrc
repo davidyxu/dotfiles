@@ -8,6 +8,8 @@ set wildmode=longest:full,full
 set laststatus=2
 set clipboard=unnamed
 set backspace=2
+
+"Highlight cursor line
 set cursorline
 hi CursorLine ctermbg=black cterm=NONE ctermfg=NONE
 
