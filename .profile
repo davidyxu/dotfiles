@@ -60,8 +60,10 @@ function set_prompt() {
     BRANCH=''
   fi
 
-  export PS1="${BOLD}ʕ•ᴥ•ʔ${UNBOLD} \w ${BRANCH} \u$ "
+  export PS1="ʕ•ᴥ•ʔ \w ${BRANCH} \u$ "
 }
 
 PROMPT_COMMAND=set_prompt
 
+
+export PATH="$HOME/.cargo/bin:$PATH"

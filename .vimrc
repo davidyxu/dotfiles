@@ -21,6 +21,8 @@ set statusline +=%1*%4v\ %*             "virtual column number
 
 autocmd BufRead,BufNewFile *.js6 setlocal ts=4 sw=4 sts=4 expandtab
 autocmd BufRead,BufNewFile *.js6 setfiletype javascript
+autocmd BufRead,BufNewFile *.jsx setlocal ts=4 sw=4 sts=4 expandtab
+autocmd BufRead,BufNewFile *.jsx setfiletype javascript
 
 execute pathogen#infect()
 syntax on
