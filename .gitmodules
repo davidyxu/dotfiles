@@ -1,5 +1,5 @@
-[submodule "/Users/dxu/.vim/bundle/rust.vim"]
-	path = /Users/dxu/.vim/bundle/rust.vim
+[submodule ".vim/bundle/rust.vim"]
+	path = .vim/bundle/rust.vim
 	url = https://github.com/rust-lang/rust.vim.git
 [submodule ".vim/bundle/vim-fakeclip"]
 	path = .vim/bundle/vim-fakeclip
@@ -7,3 +7,16 @@
 [submodule ".vim/bundle/vim-indent-guides"]
 	path = .vim/bundle/vim-indent-guides
 	url = git://github.com/nathanaelkane/vim-indent-guides.git
+
+[submodule ".vim/bundle/yats.vim"]
+	path = .vim/bundle/yats.vim
+	url = https://github.com/HerringtonDarkholme/yats.vim.git
+[submodule "/Users/dxu/.vim/bundle/vimproc.vim"]
+	path = /Users/dxu/.vim/bundle/vimproc.vim
+	url = https://github.com/Shougo/vimproc.vim.git
+[submodule "/Users/dxu/.vim/bundle/tsuquyomi"]
+	path = /Users/dxu/.vim/bundle/tsuquyomi
+	url = https://github.com/Quramy/tsuquyomi.git
+[submodule "/Users/dxu/.vim/bundle/YouCompleteMe"]
+	path = /Users/dxu/.vim/bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
